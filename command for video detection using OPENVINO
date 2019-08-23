@@ -1,0 +1,1 @@
+python3 object_detection_demo_ssd_async.py --labels /home/aguspray/ship_detection/label.pbtxt -i /home/aguspray/ship_detection/Video/Bismillah_OPENVINO.mp4 -m /home/aguspray/ship_detection/kapal.xml -d CPU --cpu_extension /opt/intel/openvino/deployment_tools/inference_engine/lib/intel64/libcpu_extension_sse4.so

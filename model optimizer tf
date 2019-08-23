@@ -1,0 +1,2 @@
+sudo python3 mo_tf.py --input_model /home/aguspray/ship_detection/model/kapal.pb --input_meta_graph /home/aguspray/ship_detection/hasil/cekpoin/model.ckpt.meta --output_dir /home/aguspray/ship_detection
+
